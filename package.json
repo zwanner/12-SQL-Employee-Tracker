@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "pg": "^8.11.5",
+    "postgres": "^3.4.4"
+  }
+}
