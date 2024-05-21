@@ -3,6 +3,8 @@
  ![License](https://img.shields.io/badge/License-MIT-blue.svg)
  
  A command line employee tracker using inquirer and SQL
+
+ [VIDEO](https://youtu.be/gffLvSzvWLg)
 ## Table of Contents
  * [Installation](#installation)
  * [Usage](#usage)
